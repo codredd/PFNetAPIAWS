@@ -1,0 +1,6 @@
+@PFNetAPIAWS_HostAddress = http://localhost:5027
+
+GET {{PFNetAPIAWS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
